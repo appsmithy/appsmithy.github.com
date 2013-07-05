@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[AppSmithy Blog]]></title>
+  <title><![CDATA[AppSmithy]]></title>
   <link href="http://appsmithy.github.io/atom.xml" rel="self"/>
   <link href="http://appsmithy.github.io/"/>
-  <updated>2013-07-04T21:14:28-07:00</updated>
+  <updated>2013-07-04T21:22:19-07:00</updated>
   <id>http://appsmithy.github.io/</id>
   <author>
     <name><![CDATA[AppSmithy]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://appsmithy.github.io/blog/2013/07/04/hello/"/>
-    <updated>2013-07-04T21:14:00-07:00</updated>
-    <id>http://appsmithy.github.io/blog/2013/07/04/hello</id>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://appsmithy.github.io/blog/2013/07/04/hello-world/"/>
+    <updated>2013-07-04T21:17:00-07:00</updated>
+    <id>http://appsmithy.github.io/blog/2013/07/04/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
