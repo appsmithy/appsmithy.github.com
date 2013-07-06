@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[AppSmithy]]></title>
-  <link href="http://appsmithy.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: log | AppSmithy]]></title>
+  <link href="http://appsmithy.github.io/blog/categories/log/atom.xml" rel="self"/>
   <link href="http://appsmithy.github.io/"/>
   <updated>2013-07-06T00:22:01-07:00</updated>
   <id>http://appsmithy.github.io/</id>
@@ -42,15 +42,6 @@
 &ndash; Store data in cloud for backup and restore</p>
 
 <p>Around 80% of the respondents said they were willing to pay for an ad-free version of the app with these features. That would make the free to paid conversion rate to be around 3% which seems like the going rate for Android apps. Fired up by the amazing response, we started working on the paid version of the app a few weeks ago and we are happy to say it is nearly complete. We are currently beta testing it and hope to announce the release in a few days.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello, world!]]></title>
-    <link href="http://appsmithy.github.io/blog/2013/07/04/hello-world/"/>
-    <updated>2013-07-04T21:17:00-07:00</updated>
-    <id>http://appsmithy.github.io/blog/2013/07/04/hello-world</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

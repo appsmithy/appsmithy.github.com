@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: appsmithy | AppSmithy]]></title>
-  <link href="http://appsmithy.github.io/blog/categories/appsmithy/atom.xml" rel="self"/>
+  <title><![CDATA[Category: activity | AppSmithy]]></title>
+  <link href="http://appsmithy.github.io/blog/categories/activity/atom.xml" rel="self"/>
   <link href="http://appsmithy.github.io/"/>
-  <updated>2013-07-06T00:12:05-07:00</updated>
+  <updated>2013-07-06T00:22:01-07:00</updated>
   <id>http://appsmithy.github.io/</id>
   <author>
     <name><![CDATA[AppSmithy]]></name>
