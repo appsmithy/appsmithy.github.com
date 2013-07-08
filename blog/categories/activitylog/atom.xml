@@ -4,7 +4,7 @@
   <title><![CDATA[Category: activitylog | AppSmithy]]></title>
   <link href="http://appsmithy.github.io/blog/categories/activitylog/atom.xml" rel="self"/>
   <link href="http://appsmithy.github.io/"/>
-  <updated>2013-07-06T00:38:18-07:00</updated>
+  <updated>2013-07-08T01:15:08-07:00</updated>
   <id>http://appsmithy.github.io/</id>
   <author>
     <name><![CDATA[AppSmithy]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Activity Log Pro released]]></title>
+    <link href="http://appsmithy.github.io/blog/2013/07/07/activity-log-pro-released/"/>
+    <updated>2013-07-07T23:51:00-07:00</updated>
+    <id>http://appsmithy.github.io/blog/2013/07/07/activity-log-pro-released</id>
+    <content type="html"><![CDATA[<p>The first version of <a href="https://play.google.com/store/apps/details?id=com.appsmithy.activitylogpro">Activity Log Pro</a> Android app is now available! Here&rsquo;s a quick overview of the new features:</p>
+
+<ul>
+<li>No Ads!</li>
+<li>Calendar view of entries</li>
+<li>Export data as an Excel spreadsheet (CSV file)</li>
+<li>Automatic backup of data to the cloud</li>
+<li>Options for the order in which activities are displayed</li>
+<li>Star/favorite activities for easy filtering</li>
+<li>Updated UI with Android 4.x look and feel and support for high resolution displays</li>
+</ul>
+
+
+<p>And there are plans to add more in the future! So, do give it a spin!</p>
+
+<h2>Usability improvements</h2>
+
+<p>The Pro version while retaining the flexibility of the free version significantly improves usability in multiple ways. Most signicantly, entries are now also displayed on a monthly calendar to easily visualize the regularity with which an activity is performed. Activities can now be &ldquo;starred&rdquo; with an option to show only Starred activities. This replaces the Archive function found in the free version. There are minor UI improvements all over and the look-and-feel has been updated to be consistent with Android 4.x. The app looks great on the HD displays on our Galaxy Nexus phone and Nexus 7 tablet test devices!</p>
+
+<h2>Behind the scenes</h2>
+
+<p>Android doesn&rsquo;t have a native calendar widget to display data, so we had to roll our own. While it was an interesting exercise, this should be something that the framework should include. On the other hand, implementing automatic backup of the data to the cloud was comparatively straightforward thanks to the almost magical <a href="http://developer.android.com/google/backup/index.html">Android Backup Service</a>. The Backup Service is only available on Android 2.2 and later which means the Pro version isn&rsquo;t available on pre-2.2 devices. Which is not a big deal given that pre-2.2 devices account for less than 1% of the installation base of the free version (which, by the way, works for Android 1.6 and later!). The excellent <a href="http://actionbarsherlock.com/">ActionBarSherlock</a> library made it super-easy to have an action bar that will work for pre-Honeycomb devices. In our opinion, it should be bundled with the <a href="http://developer.android.com/tools/extras/support-library.html">Android support libary</a>!</p>
+
+<h2>Future plans</h2>
+
+<p>While we will continue to support the free version with bugfixes and the ocassional feature addition, the Pro version is almost a new (and better!) app in its own right and we plan to focus on it to make it even better.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Building an ad-free version of the Activity Log app]]></title>
